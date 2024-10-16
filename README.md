@@ -10,7 +10,7 @@ Sketch -> Include Library -> Add .ZIP Library and select the downloaded library.
 1.  Set up the following circuit with your breadboard, Arduino-Uno, 7-segment
 display, 220Ω resistors (11), 3 LEDs and jumpers.
 
-![Figure 1 - Circuit](placeholder)
+![Figure 1 - Circuit](https://github.com/fsaltunyuva/CMPE453-Lab2-TrafficLightWithCounter/blob/main/README%20Figures/Circuit.png)
 
 2. Program the microcontroller by using C programming on Arduino IDE.
 Provide	the	connection between your computer and Arduino board. When
