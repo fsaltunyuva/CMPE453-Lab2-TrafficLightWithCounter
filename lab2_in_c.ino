@@ -20,7 +20,7 @@ int main(){
   DDRB=0xff; // Set all ports of PORTB as output
   DDRD=0xff; // Set all ports of PORTD as output
 
-  // The cathode implementation of 7 segment display is used
+  // The anode implementation of 7 segment display is used
   // So, the bits are set to 1 to turn off the display
   while(1)
   {
